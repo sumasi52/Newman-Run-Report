@@ -20,7 +20,7 @@ Newman v4
 
 
 ## Usage
-Report.ps1‚ğ‹N“®‚·‚é‚Æ©“®“I‚ÉƒeƒXƒg‚ªs‚í‚êAƒŒƒ|[ƒg‚ª `.\newman`“à‚É‹L˜^‚³‚ê‚Ä‚¢‚­
+Report.ps1‚ğ‹N“®‚·‚é‚Æ©“®“I‚ÉƒeƒXƒg‚ªs‚í‚êAƒŒƒ|[ƒg‚ª `.\newman`“à‚É‹L˜^‚³‚ê‚é
 
 ƒ^ƒXƒNƒXƒPƒWƒ…[ƒ‰g—p”Å‚ğ—˜—p‚ÌÛ‚ÍWindows‚É“‹Ú‚³‚ê‚Ä‚¢‚éƒ^ƒXƒNƒXƒPƒWƒ…[ƒ‰‚æ‚èƒXƒPƒWƒ…[ƒ‹İ’è‚ª‚Å‚«‚é
 
@@ -29,8 +29,8 @@ Report.ps1‚ğ‹N“®‚·‚é‚Æ©“®“I‚ÉƒeƒXƒg‚ªs‚í‚êAƒŒƒ|[ƒg‚ª `.\newman`“à‚É‹L˜^‚³‚ê‚
  ÅãˆÊ‚Ì“ÁŒ ‚ÅÀs
 
 #### ‘€ì  
- ƒvƒƒOƒ‰ƒ€/ƒXƒNƒŠƒvƒg `C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe` ‚È‚ÇPowershell.exe‚ÌƒpƒX‚ğ“ü—Í  
- ˆø”‚Ì’Ç‰Á `C:\Newman-Report\ƒ^ƒXƒNƒXƒPƒWƒ…[ƒ‰g—p”Å\Report.ps1` ‚È‚ÇReport.ps1‚ÌƒpƒX‚ğ“ü—Í  
+ ƒvƒƒOƒ‰ƒ€/ƒXƒNƒŠƒvƒg  task-scheduler.js‚ÌƒpƒX‚ğ“ü—Í Ex`C:\Newman-Run-Report\ƒ^ƒXƒNƒXƒPƒWƒ…[ƒ‰g—p”Å\task-scheduler.js`  
+ ˆø”‚Ì’Ç‰Á  Report.ps1‚ÌƒpƒX‚ğ“ü—Í Ex`"C:\Newman-Run-Report\ƒ^ƒXƒNƒXƒPƒWƒ…[ƒ‰g—p”Å\Report.ps1"`  
 ‚»‚Ì‘¼‚ÌƒvƒƒpƒeƒB‚Í”CˆÓ  
 
 ## Licence
@@ -41,5 +41,5 @@ This software is released under the MIT License, see LICENSE.
 
 
 ## References
-https://www.npmjs.com/package/newman#newman-the-cli-companion-for-postman
+https://www.npmjs.com/package/newman#newman-the-cli-companion-for-postman  
 https://api.slack.com/incoming-webhooks
